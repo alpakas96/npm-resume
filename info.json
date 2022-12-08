@@ -1,0 +1,21 @@
+{
+    "name": "John Hurley",
+    "website": "N/A",
+    "linkedin": "N/A",
+    "github": "alpakas96",
+    "email": "jhurleyfilm@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+    ],
+    "otherSkills": [
+        "Chopsticks"
+    ]
+}
